@@ -12,6 +12,4 @@ RUN pip install --requirement /app/requirements.txt
 COPY . /app/.
 WORKDIR /app
 
-RUN pip install --upgrade pip
-
 ENTRYPOINT [ "python", "-u", "run.py"]
