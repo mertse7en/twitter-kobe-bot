@@ -6,7 +6,7 @@ Check : https://twitter.com/KobeReminder
 ## Stepts to follow
 
 - Create config.env file under config folder
-- Enter the credentials as shown in config.env.example
+- Enter credentials as shown in config.env.example
 - Set message to be sent. Check tweet_bot.py/ set_tweet method 
 
 
